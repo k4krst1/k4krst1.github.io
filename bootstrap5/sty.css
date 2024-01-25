@@ -1,0 +1,21 @@
+body{
+    min-height: 200px;
+    min-width: 3000px;
+}
+
+.jumbotron {
+    padding-top: 10rem;
+    background-color: aquamarine;
+}
+
+#project {
+    background-color: rgb(233, 230, 219);
+}
+
+section{
+    padding-top: 5rem;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
